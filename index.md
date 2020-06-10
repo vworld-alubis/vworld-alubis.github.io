@@ -3,3 +3,5 @@
 共同ページ．
 
 - [地理](/Alubis-geo/)
+
+- [言語](/Alubis-lang/)
