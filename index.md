@@ -2,6 +2,8 @@
 
 共同ページ．
 
+* [制作方針](/Alubis-policy/)
+* [ストーリー](/Alubis-story/)
 * [地理](/Alubis-geo/)
 * [言語](/Alubis-lang/)
 * [メタアルビス](/Alubis-meta/)
